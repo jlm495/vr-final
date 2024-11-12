@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.Collections;
 
 public class DragonExample : MonoBehaviour
@@ -55,7 +55,7 @@ public class DragonExample : MonoBehaviour
     // Update is called once per frame
     /*
     void Update()
-    { 
+    {
         if (Input.GetKeyDown(KeyCode.W))
         {
             if (anim.GetCurrentAnimatorStateInfo(0).IsName("IdleSimple"))
@@ -517,6 +517,5 @@ public class DragonExample : MonoBehaviour
             }
 
         }
-        
     } */
 }
