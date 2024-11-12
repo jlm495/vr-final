@@ -1,0 +1,16 @@
+# Project Checklist
+- [x] Implement rider anchored to dragon
+- [x] Timer
+- [x] Enemy AI
+- [x] Animations
+- [x] Path for dragon to follow
+- [ ] Bow and arrow shoot
+- [x] Reset button
+- [ ] Scene polish
+- [ ] Game over scene with score
+- [ ] Score
+- [x] Start scene
+- [ ] Game over when enemies get to player
+- [ ] Enemies disappear when player shoots them
+- [ ] Enemy dragon spawn..?
+- [ ] BONUS - Teleport to other dragon
