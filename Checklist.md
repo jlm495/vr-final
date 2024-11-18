@@ -6,7 +6,7 @@
 - [x] Path for dragon to follow
 - [ ] Bow and arrow shoot
 - [x] Reset button
-- [ ] Scene polish
+- [x] Scene polish
 - [ ] Game over scene with score
 - [ ] Score
 - [x] Start scene

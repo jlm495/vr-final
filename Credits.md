@@ -5,3 +5,5 @@ Dragon PBR - https://assetstore.unity.com/packages/3d/characters/creatures/drago
 Dragon for Boss Monster : PBR - https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-pbr-78923 
 
 Stylized Crossbow - https://assetstore.unity.com/packages/3d/props/weapons/stylized-crossbow-243342
+
+AllSky - https://distantlantern.itch.io/allsky-free
