@@ -7,3 +7,5 @@ Dragon for Boss Monster : PBR - https://assetstore.unity.com/packages/3d/charact
 Stylized Crossbow - https://assetstore.unity.com/packages/3d/props/weapons/stylized-crossbow-243342
 
 AllSky - https://distantlantern.itch.io/allsky-free
+
+Wooden Arrow - https://www.cgtrader.com/free-3d-models/sports/equipment/cc0-wooden-arrow
