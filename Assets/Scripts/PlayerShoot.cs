@@ -9,7 +9,7 @@ public class PlayerShoot : MonoBehaviour
     private GameObject ArrowTemplate;
     [SerializeField]
     private GameObject crossbow;
-    public float shootPower = 500f;
+    public float shootPower = 10000f;
     public InputActionReference trigger;
     //[SerializeField]
     //private AudioSource myAudioSource;
@@ -20,11 +20,9 @@ public class PlayerShoot : MonoBehaviour
 
     void Shoot(InputAction.CallbackContext obj){
 
-        //myAudioSource.Play();
-        GameObject newArrow = Instantiate(ArrowTemplate, transform.position, crossbow.transform.rotation * Quaternion.Euler(32f,82f,0f));
+        GameObject newArrow = Instantiate(ArrowTemplate, transform.position, crossbow.transform.rotation * Quaternion.Euler(0f,0f,180f));
         newArrow.GetComponent<Rigidbody>().AddForce(transform.forward * shootPower);
-        //Quaternion.Euler(90.0f,100.0f,135.0f)
 
-    }
+    }//crossbow.transform.rotation * Quaternion.Euler(32f,82f,0f)
    
 }

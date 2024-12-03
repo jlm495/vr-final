@@ -18,5 +18,6 @@ public class ResetGame : MonoBehaviour
     void Reset(InputAction.CallbackContext obj){
 
         SceneManager.LoadScene("Scenes/StartScene");
+        Score.ResetScore();
     }
 }

@@ -7,10 +7,10 @@
 - [x] Crossbow shoot
 - [x] Reset button
 - [x] Scene polish
-- [ ] Game over scene with score
-- [ ] Score
+- [x] Game over scene with score
+- [x] Score
 - [x] Start scene
-- [ ] Game over when enemies get to player
+- [x] Game over when enemies get to player
 - [ ] Enemies disappear when player shoots them
 - [ ] Enemy dragon spawn..?
 - [ ] BONUS - Teleport to other dragon

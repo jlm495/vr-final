@@ -13,6 +13,7 @@ public class DragonRiding : MonoBehaviour
         // Store the initial local position and rotation of the player relative to the moving object
         localPosition = transform.localPosition;
         localRotation = transform.localRotation;
+        Score.ResetScore();
     }
 
     private void LateUpdate()
