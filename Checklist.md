@@ -11,6 +11,6 @@
 - [x] Score
 - [x] Start scene
 - [x] Game over when enemies get to player
-- [ ] Enemies disappear when player shoots them
-- [ ] Enemy dragon spawn..?
+- [x] Enemies disappear when player shoots them
+- [x] Enemy dragon spawn..?
 - [ ] BONUS - Teleport to other dragon
